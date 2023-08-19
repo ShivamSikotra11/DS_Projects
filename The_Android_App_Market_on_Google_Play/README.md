@@ -47,6 +47,6 @@
 ## Acknowledgments
 > This project was developed based on the knowledge and skills acquired from [DataCamp](https://app.datacamp.com/). The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/).
 >
-> For any questions or suggestions, please contact me at vb.viralbiyawala08@gmail.com or [LinkedIN](https://www.linkedin.com/in/viralbiyawala/).
+> For any questions or suggestions, please contact me at sikotra756@gmail.com or [LinkedIN](https://www.linkedin.com/in/sikotra-shivam/).
 
 ## **Thank You**
